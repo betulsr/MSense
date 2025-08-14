@@ -43,3 +43,29 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Prediction Service Security
+prediction-service/.env
+prediction-service/__pycache__/
+prediction-service/*.pyc
+
+# iOS Native
+ios-native/MSense.xcworkspace/xcuserdata/
+ios-native/MSense.xcodeproj/xcuserdata/
+ios-native/MSense.xcodeproj/project.xcworkspace/xcuserdata/
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+.env
+
+# ML Models (if you want to version control them, remove these lines)
+*.pth
+*.joblib
