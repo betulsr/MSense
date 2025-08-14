@@ -102,21 +102,9 @@ MSense addresses fatigue management for Multiple Sclerosis patients by:
 - 🔄 **Data Pipeline**: Sensor integration in progress
 - 📋 **Testing**: Comprehensive test suite planned
 
-## 🤝 Contributing
-
-This is a capstone project for fatigue prediction research. For questions or collaboration:
-
-1. **Issues**: Use GitHub Issues for bug reports
-2. **Features**: Submit feature requests via Issues  
-3. **Documentation**: Help improve README and code comments
-
-## 📄 License
-
-Academic research project - see institutional guidelines.
-
 ## 🎓 Academic Context
 
-**Course**: 4B Capstone Project  
+**Course**: BME 461 4B Capstone Project  
 **Focus**: Mobile Health Applications for Chronic Disease Management  
 **Domain**: Machine Learning, iOS Development, Cloud Computing
 
